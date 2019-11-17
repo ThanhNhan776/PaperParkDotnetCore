@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperPark", "PaperPark\PaperPark.csproj", "{ECC8450D-6DF5-4B7D-BE5B-C1AC97251C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC8450D-6DF5-4B7D-BE5B-C1AC97251C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC8450D-6DF5-4B7D-BE5B-C1AC97251C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC8450D-6DF5-4B7D-BE5B-C1AC97251C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC8450D-6DF5-4B7D-BE5B-C1AC97251C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11CB356-1EA1-4082-983F-8BAEC0BDDD13}
+	EndGlobalSection
+EndGlobal
